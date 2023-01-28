@@ -1,5 +1,5 @@
 import unittest
-from graph_to_tree import dict_to_graph
+from Mots_Clés.graph_to_tree import dict_to_graph
 import graphviz as gv
 
 

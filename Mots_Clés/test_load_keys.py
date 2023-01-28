@@ -1,5 +1,5 @@
 import unittest
-import load_keys
+import Mots_Clés.load_keys as load_keys
 
 
 class MyTestCase(unittest.TestCase):

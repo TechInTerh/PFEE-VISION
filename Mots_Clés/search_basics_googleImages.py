@@ -1,6 +1,6 @@
 from google_images_search import GoogleImagesSearch
 from tqdm import tqdm
-from load_keys import load_keys
+from Mots_Clés.load_keys import load_keys
 
 def clean_dir(path: str):
 	import os
